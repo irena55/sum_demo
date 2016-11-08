@@ -31,6 +31,7 @@ namespace sum
             Console.WriteLine(" = " + sum);
             Console.WriteLine(sum);
             Console.WriteLine(" = " + fac);
+            Console.WriteLine("We did it");
         }
     }
 }
